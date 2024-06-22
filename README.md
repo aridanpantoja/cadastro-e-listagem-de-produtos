@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📦 Cadastro e Listagem de Produtos - Prova Experimental
 
-## Getting Started
+Este projeto é uma prova experimental para uma vaga de estágio na Oak Tecnologia.
 
-First, run the development server:
+## 🚀 Principais Tecnologias Utilizadas
+- React
+- Next.js
+- Tailwind CSS
+- TypeScript
+- React Hook Form
+- Zod
+- Shadcn UI
+- localStorage
+
+## 📑 Como Executar o Projeto
+Siga os passos abaixo para configurar e executar o projeto localmente:
+
+#### Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+#### Navegue até o diretório do projeto:
+
+```bash
+cd seu-repositorio
+```
+
+#### Instale as dependências:
+
+Certifique-se de ter o Node.js instalado. Para instalar as dependências, execute:
+
+```bash
+npm install
+```
+
+#### Inicie o servidor de desenvolvimento:
+
+Após a instalação das dependências, inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Acesse o Projeto:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Abra seu navegador e acesse http://localhost:3000 para ver a aplicação em funcionamento.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 💻 Demonstração
+Adicione aqui algumas capturas de tela ou GIFs da aplicação em funcionamento para dar aos visitantes uma ideia do que esperar.
 
-## Learn More
+## 📞 Contato
+Fique à vontade para explorar o código, dar feedback ou sugerir melhorias. 
 
-To learn more about Next.js, take a look at the following resources:
+- Portfólio: [aridan.dev](https://aridan.dev)
+- Instagram [aridan.dev](https://www.instagram.com/aridan.dev/)
+- LinkedIn: [aridanpantoja](https://linkedin.com/in/aridanpantoja)
+- GitHub: [aridanpantoja](https://github.com/aridanpantoja)
+- Email: aridanpantoja@gmail.com
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
